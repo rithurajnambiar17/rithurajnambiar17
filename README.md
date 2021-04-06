@@ -4,4 +4,6 @@
 🐍 I like working in Python<br>
 🌱 I’m currently learning Computer Vision and also exploring TensorFlow <br>
 📫 Find me at <a href = https://www.linkedin.com/in/rithuraj-nambiar/> LinkedIn </a> . Feel Free to <a href = mailto:rithurajnambiar17@gmail.com> Mail Me </a><br>
+<br>
+
 ![Rithuraj's github stats](https://github-readme-stats.vercel.app/api?username=rithurajnambiar17)
