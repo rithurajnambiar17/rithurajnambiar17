@@ -13,4 +13,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithurajnambiar17&theme=tokyonight)
 <br><br>
 <b>Overall GitHub stats:</b><br><br>
-![Rithuraj's github stats](https://github-readme-stats.vercel.app/api?username=rithurajnambiar17)
+![Rithuraj's GitHub stats](https://github-readme-stats.vercel.app/api?username=rithurajnambiar17&show_icons=true&theme=dark)
