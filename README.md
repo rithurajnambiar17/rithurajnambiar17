@@ -72,6 +72,16 @@
 <b>Total Visitors:</b><br><br>
 ![](https://visitor-badge.laobi.icu/badge?page_id=rithurajnambiar17.rithurajnambiar17)
 
-### Follow me
-
-[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rithuraj-nambiar/)](https://www.linkedin.com/in/rithuraj-nambiar/)&nbsp;&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:rithurajnambiar17@gmail.com)](mailto:rithurajnambiar17@gmail.com)
+<a href="https://twitter.com/kaychallayy">
+  <img align="left" alt="Rithuraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/rithuraj-nambiar">
+  <img align="left" alt="Rithuraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/rithurajnambiar17">
+  <img align="left" alt="Rithuraj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://instagram.com/kaychallay">
+  <img align="left" alt="Rithuraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<br><br>
