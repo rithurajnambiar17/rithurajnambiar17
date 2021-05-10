@@ -1,87 +1,82 @@
-<img src="https://media.giphy.com/media/QpVUMRUJGokfqXyfa1/giphy.gif" width="100%" height="70%">
-<h3 align="center">Hey there, I'm <a href="https://rithurajnambiar17.github.io/">Rithuraj</a><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="28"/><img src="https://emojis.slackmojis.com/emojis/images/1562883175/5953/100.gif?1562883175" width="28"> </h3>
+<h3>
+  Welcome to Rithuraj Nambiar's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-## 📖 About me
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Machine+Learning+Developer;Python+Developer;Self-taught+Web+Developer"></a>
+</p>
 
-* 💻 I'm an AI Enthusiast
-* 🖥  I'm passionate about Machine Learning and NLP
-* ⚡ I'm Currently learning Web Development
-* 🐍 I like working in Python
-* 🌱 I’m currently learning Computer Vision and also exploring TensorFlow
-* 🌐 Have a look at my portfolio [here](https://rithurajnambiar17.github.io)
 
-## My Skills :computer:
+## 🙋‍♂️ Connect with me
 
-<table bgcolor="white">
-<tbody>
-<tr>
+<!-- Badges template - https://github.com/badges/shields -->
+<p align="center">
+  <a href="https://twitter.com/kaychallayy"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://dev.to/rithurajnambiar"><img alt="Dev.to" title="DevTo" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+  <a href="https://linkedin.com/in/rithuraj-nambiar"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white">
+</p>
 
-<td align="center" width="33%">
-<img height=60px src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"> 
-</td>
+## 🔥 Streak stats
 
-<td align="center" width="33%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg"> 
-</td>
-                                                                                                         
-<td align="center" width="33%">
-<img height=80px src="https://pandas.pydata.org/static/img/pandas_secondary.svg"> 
-</td>
+<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<p align="center">
+  <a href="https://github.com/rithurajnambiar17/github-readme-streak-stats">
+    <img alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rithurajnambiar17&theme=monokai-metallian&hide_border=true"/>
+  </a>
 
-</tr>
+<!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
-<tr>
- 
-<td align="center" width="33%">
-<img height=60px src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"> 
-</td>
+## 🛠️ My favorite tools
 
-<td align="center" width="33%">
-<img height=60px alt="CSS3" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"> 
-</td>
+### 👨‍💻 Programming languages
 
-<td align="center" width="33%">
-<img height=80px src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"> 
-</td>
+<p>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>
+</p>
 
-</tr>
+### 🧰 Frameworks and libraries
 
-<tr>
- 
-<td align="center" width="33%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/690px-Flask_logo.svg.png"> 
-</td>
+<p>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
+</p>
 
-<td align="center" width="33%">
-<img height=60px alt="CSS3" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/66px-Jupyter_logo.svg.png"> 
-</td>
+### 🗄️ Databases and cloud hosting
 
-<td align="center" width="33%">
-<img height=60px src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/768px-Git-logo.svg.png"> 
-</td>
+<p>
+    <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+    <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/Repl.it%20-%230D101E.svg?logo=Repl.it&logoColor=white"></a>
+    <a href="#"><img alt="WordPress" src ="https://img.shields.io/badge/-WordPress-informational?logo=wordpress&logoColor=white"></a>
+</p>
 
-</tr> 
+### 💻 Software and tools
 
-</tbody>
-</table>
+<p>
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  
+</p>
 
-## 📈 Github Stats
-  <a href="https://github.com/Rahulm0106/github-readme-stats"><img alt="Rithuraj's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rithurajnambiar17&show_icons=true&count_private=true&hide=" /></a><br><br><br>
-  <b>My Top Languages:</b><br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rithurajnambiar17&theme=tokyonight)<br><br><br>
-<b>Total Visitors:</b><br><br>
-![](https://visitor-badge.laobi.icu/badge?page_id=rithurajnambiar17.rithurajnambiar17)
+## 📊 Github stats
 
-<a href="https://twitter.com/kaychallayy">
-  <img align="left" alt="Rithuraj's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://linkedin.com/in/rithuraj-nambiar">
-  <img align="left" alt="Rithuraj's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/rithurajnambiar17">
-  <img align="left" alt="Rithuraj's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://instagram.com/kaychallay">
-  <img align="left" alt="Rithuraj's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br><br>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rithuraj's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rithurajnambiar17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DenverCoder1's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rithurajnambiar17&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
+  <br/>
+</details>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rithuraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rithurajnambiar17&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
