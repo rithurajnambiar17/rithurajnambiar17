@@ -23,7 +23,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/rithurajnambiar17/github-readme-streak-stats">
-    <img alt="DenverCoder1's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rithurajnambiar17&theme=monokai-metallian&hide_border=true"/>
+    <img alt="Rithuraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rithurajnambiar17&theme=monokai-metallian&hide_border=true"/>
   </a>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
