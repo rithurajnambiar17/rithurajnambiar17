@@ -17,6 +17,12 @@
   <a href="https://dev.to/rithurajnambiar"><img alt="Dev.to" title="DevTo" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://linkedin.com/in/rithuraj-nambiar"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white">
 </p>
+  
+## 👨‍💼Startup
+ 
+<p>
+  <a href="https://shopaio.in/"><img alt="SHOPAIO" tittle="SHOPAIO" src="https://img.shields.io/badge/SHOPAIO-shopaio.in-yellow?style=for-the-badge"></a>  
+</p>
 
 ## 🔥 Streak stats
 
