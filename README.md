@@ -16,6 +16,7 @@
   <a href="https://twitter.com/kaychallayy"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://dev.to/rithurajnambiar"><img alt="Dev.to" title="DevTo" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://linkedin.com/in/rithuraj-nambiar"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white">
+   <a href="https://www.kaggle.com/rithurajnambiar"> <img alt = "Kaggle" title = "Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> </a>
 </p>
   
 ## 👨‍💼Startup
@@ -56,6 +57,10 @@
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="21px"></a>
     <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="21px"></a>
+    <a href="#"><img alt="Node-JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="21px"></a>
+    <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" height="21px"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="21px"></a>
+  
 </p>
 
 ### 🗄️ Databases, cloud hosting and deployment
