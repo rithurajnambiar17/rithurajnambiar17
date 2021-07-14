@@ -17,6 +17,7 @@
   <a href="https://dev.to/rithurajnambiar"><img alt="Dev.to" title="DevTo" src="https://img.shields.io/badge/DEV.TO-3835D3.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
   <a href="https://linkedin.com/in/rithuraj-nambiar"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white">
    <a href="https://www.kaggle.com/rithurajnambiar"> <img alt = "Kaggle" title = "Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> </a>
+   <a href="https://rithurajnambiar.medium.com/"> <img alt = "Medium" title = "Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"> </a>
 </p>
   
 ## 👨‍💼Startup
