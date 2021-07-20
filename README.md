@@ -30,7 +30,7 @@
 
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
-  <a href="https://github.com/rithurajnambiar17/github-readme-streak-stats">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img alt="Rithuraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rithurajnambiar17&theme=monokai-metallian&hide_border=true"/>
   </a>
 
