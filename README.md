@@ -31,7 +31,7 @@
 <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="Rithuraj's streak" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rithurajnambiar1&theme=highcontrast)]"/>
+    <img alt="Rithuraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rithurajnambiar17&theme=highcontrast"/>
   </a>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
