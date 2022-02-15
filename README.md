@@ -1,11 +1,13 @@
-<h3>
+<h3 align = "center">
   Welcome to Rithuraj Nambiar's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
+
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Enthusiast;Machine+Learning+Developer;Python+Developer;Web+Developer"></a>
+<p align = "center">
+  <img src="https://readme-typing-svg.herokuapp.com/?center=True&lines=AI+Enthusiast;Machine+Learning+Developer;Python+Developer;Web+Developer"><br>
+  <img src="/assets/coding-illus.gif">
 </p>
 
 
@@ -20,19 +22,19 @@
    <a href="https://rithurajnambiar.medium.com/"> <img alt = "Medium" title = "Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"> </a>
 </p>
   
-## 👨‍💼Startup
- 
-<p>
-  <a href="https://shopaio.in/"><img alt="SHOPAIO" tittle="SHOPAIO" src="https://img.shields.io/badge/SHOPAIO-shopaio.in-yellow?style=for-the-badge"></a>  
-</p>
+  
+## GitHub Stats
 
-## 🔥 Streak stats
 
-<!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
+<!--STREAKS and STATS-->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="Rithuraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rithurajnambiar17&theme=highcontrast"/>
+    <img alt="Rithuraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rithurajnambiar17&hide_border=true&theme=radical"/>
+    <img alt="Rithuraj's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rithurajnambiar17&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
   </a>
+  
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rithuraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rithurajnambiar17&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
@@ -41,26 +43,26 @@
 ### 👨‍💻 Programming languages
 
 <p>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="#"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white"></a>  
+    <a href="#"><img alt="Python" title="Python" src="https://img.shields.io/badge/-Python-2D3E4D?style=for-the-badge&logo=python&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=C&logoColor=white"></a>
+    <a href="#"><img alt="C++" src="https://img.shields.io/badge/-c++-0B5B97?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
+    <a href="#"><img alt="CSS" src="https://img.shields.io/badge/-css-0066B6?style=for-the-badge&logo=css3&logoColor=white"></a>
+    <a href="#"><img alt="HTML" src="https://img.shields.io/badge/-html-E05726?style=for-the-badge&logo=html5&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-javascript-EAD41C?style=for-the-badge&logo=javascript&logoColor=white"></a>
+    <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>  
 </p>
 
 ### 🧰 Frameworks and libraries
 
 <p>
-    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions%20-%232671E5.svg?logo=github%20actions&logoColor=white"></a>
-    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=numpy&logoColor=white"></a>
-    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=pandas&logoColor=white"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" height="21px"></a>
-    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="21px"></a>
-    <a href="#"><img alt="Node-JS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="21px"></a>
-    <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white" height="21px"></a>
-    <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="21px"></a>
+    <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/-github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
+    <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
+    <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
+    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+    <a href="#"><img alt="Scikit-Learn" src="https://img.shields.io/badge/-scikit%20klearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" ></a>
+    <a href="#"><img alt="Node-JS" src="https://img.shields.io/badge/-node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" ></a>
+    <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/-yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"></a>
+    <a href="#"><img alt="React" src="https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
   
 </p>
 
@@ -92,16 +94,3 @@
   <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" height="21px"></a>
 </p>
 
-## 📊 Github stats
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-<p align = "center">
-   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rithuraj's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rithurajnambiar17&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a><br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Rithuraj's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=rithurajnambiar17&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" /></a>
-  <br/>
-</p>
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rithuraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rithurajnambiar17&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
