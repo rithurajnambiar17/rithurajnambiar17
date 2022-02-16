@@ -20,6 +20,8 @@
   <a href="https://linkedin.com/in/rithuraj-nambiar"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?&style=for-the-badge&logo=linkedin&logoColor=white">
    <a href="https://www.kaggle.com/rithurajnambiar"> <img alt = "Kaggle" title = "Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> </a>
    <a href="https://rithurajnambiar.medium.com/"> <img alt = "Medium" title = "Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"> </a>
+   <a href="https://linktr.ee/rithuraj/"> <img alt = "Linktree" title = "Linktree" src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"> </a>
+    
 </p>
   
   
@@ -56,6 +58,7 @@
 
 <p>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/-github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
+    <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
     <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/-pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"></a>
     <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/-bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
@@ -64,6 +67,12 @@
     <a href="#"><img alt="Yarn" src="https://img.shields.io/badge/-yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white"></a>
     <a href="#"><img alt="React" src="https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=black"></a>
     <a href="#"><img alt="LaTex" src="https://img.shields.io/badge/-latex-008080?style=for-the-badge&logo=latex&logoColor=black"></a>
+    <a href="#"><img alt="OpenCV" src="https://img.shields.io/badge/-opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=black"></a>
+    <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/-tableau-E97627?style=for-the-badge&logo=tableau&logoColor=black"></a>
+    <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/-tailwind%20css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=black"></a>
+  
+  
+  
   
 </p>
 
@@ -72,10 +81,16 @@
 <p>
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/-github%20pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/-replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
+    <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/-overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"></a>
     <a href="#"><img alt="WordPress" src ="https://img.shields.io/badge/-wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"></a>
     <a href="#"><img alt="PHP" src="https://img.shields.io/badge/-php-777BB4?style=for-the-badge&logo=php&logoColor=white"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/-mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>  
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/-flask-000000?style=for-the-badge&logo=flask&logoColor=white"></a> 
+    <a href="#"><img alt="Amazon AWS" src="https://img.shields.io/badge/-amazon%20aws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"></a> 
+    <a href="#"><img alt="Google Colab" src="https://img.shields.io/badge/google%20colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"></a> 
+    <a href="#"><img alt="Netlify" src="https://img.shields.io/badge/netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"></a> 
+  
+  
 </p>
 
 ### 💻 Software and tools
