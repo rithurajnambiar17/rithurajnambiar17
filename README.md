@@ -21,6 +21,7 @@
    <a href="https://www.kaggle.com/rithurajnambiar"> <img alt = "Kaggle" title = "Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white"> </a>
    <a href="https://rithurajnambiar.medium.com/"> <img alt = "Medium" title = "Medium" src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=Medium&logoColor=white"> </a>
    <a href="https://linktr.ee/rithuraj/"> <img alt = "Linktree" title = "Linktree" src="https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"> </a>
+   <a href="https://devpost.com/rithurajnambiar17"><img alt="Devpost" title="Devpost" src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=devpost&logoColor=white"></a>
     
 </p>
   
