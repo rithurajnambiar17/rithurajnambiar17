@@ -45,7 +45,7 @@
 
 ### 👨‍💻 Programming languages
 
-<p>
+<p align="center">
     <a href="#"><img alt="Python" title="Python" src="https://img.shields.io/badge/-Python-2D3E4D?style=for-the-badge&logo=python&logoColor=white"></a>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/-C-007ACC?style=for-the-badge&logo=C&logoColor=white"></a>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/-c++-0B5B97?style=for-the-badge&logo=cplusplus&logoColor=white"></a>
@@ -57,7 +57,7 @@
 
 ### 🧰 Frameworks and libraries
 
-<p>
+<p align="center">
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/-github%20actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"></a>
     <a href="#"><img alt="Tensorflow" src="https://img.shields.io/badge/-tensorflow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"></a>
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/-numpy-013243?style=for-the-badge&logo=numpy&logoColor=white"></a>
@@ -79,7 +79,7 @@
 
 ### 🗄️ Databases, cloud hosting and deployment
 
-<p>
+<p align="center">
     <a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/-github%20pages-222222?style=for-the-badge&logo=githubpages&logoColor=white"></a>
     <a href="#"><img alt="Repl.it" src="https://img.shields.io/badge/-replit-667881?style=for-the-badge&logo=replit&logoColor=white"></a>
     <a href="#"><img alt="Overleaf" src="https://img.shields.io/badge/-overleaf-47A141?style=for-the-badge&logo=overleaf&logoColor=white"></a>
@@ -96,7 +96,7 @@
 
 ### 💻 Software and tools
 
-<p>
+<p align="center">
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/-jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/-visual%20studio%20code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
@@ -105,7 +105,7 @@
 </p>
 
 ### 📐Design
-<p>
+<p align="center">
   <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/-adobe%20xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"></a>
   <a href="#"><img alt="Canva" src="https://img.shields.io/badge/-canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
   <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/-photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=white"></a>
