@@ -109,5 +109,6 @@
   <a href="#"><img alt="Adobe XD" src="https://img.shields.io/badge/-adobe%20xd-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white"></a>
   <a href="#"><img alt="Canva" src="https://img.shields.io/badge/-canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"></a>
   <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/-photoshop-31A8FF?style=for-the-badge&logo=photoshop&logoColor=white"></a>
+  <a href="#"><img alt="Photoshop" src="https://img.shields.io/badge/-figma-b67148?style=for-the-badge&logo=figma&logoColor=white"></a>
 </p>
 
