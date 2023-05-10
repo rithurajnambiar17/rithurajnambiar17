@@ -37,8 +37,9 @@
   </a>
   
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rithuraj's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rithurajnambiar17&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> -->
-
+<!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rithuraj's Activity Graph" src="" /></a> -->
+[![Rithuraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rithurajnambiar17&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
 ## 🛠️ My favorite tools
@@ -54,6 +55,8 @@
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/-javascript-EAD41C?style=for-the-badge&logo=javascript&logoColor=white"></a>
     <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/-markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>  
 </p>
+
+<!-- ### 🛠️ -->
 
 ### 🧰 Frameworks and libraries
 
