@@ -30,15 +30,11 @@
 
 
 <!--STREAKS and STATS-->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img alt="Rithuraj's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=rithurajnambiar17&hide_border=true&theme=radical"/>
-    <img alt="Rithuraj's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rithurajnambiar17&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" />
-  </a>
-  
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rithurajnambiar17&theme=dark&card_width=400)](https://git.io/streak-stats)
+ <img alt="Rithuraj's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rithurajnambiar17&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866">
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 <!-- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Rithuraj's Activity Graph" src="" /></a> -->
-[![Rithuraj's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=rithurajnambiar17&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Rithuraj's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rithurajnambiar17&bg_color=000000&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)
   
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
