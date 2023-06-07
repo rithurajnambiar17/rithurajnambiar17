@@ -31,7 +31,7 @@
 
 <!--STREAKS and STATS-->
   <p align="center">
- <img alt="Rithuraj's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=rithurajnambiar17&theme=dark&card_width=300">
+ <img alt="Rithuraj's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=rithurajnambiar17&theme=dark&card_width=310">
   <img alt="Rithuraj's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rithurajnambiar17&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=300">
   
     
