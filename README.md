@@ -33,6 +33,8 @@
   <p align="center">
  <img alt="Rithuraj's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=rithurajnambiar17&theme=dark&card_width=300">
   <img alt="Rithuraj's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=rithurajnambiar17&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&card_width=300">
+  <a href="https://github.com/dikshabhambri"><img src = "https://github-profile-trophy.vercel.app/?username=rithurajnambiar17"></a>
+</p>
   
     
  <img alt="Rithuraj's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rithurajnambiar17&bg_color=000001&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=false">
