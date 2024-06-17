@@ -37,7 +37,7 @@
 </p>
   
     
- <img alt="Rithuraj's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rithurajnambiar17&bg_color=000001&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=false">
+ <img alt="Rithuraj's github activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=rithurajnambiar17&bg_color=000000&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=false">
 
   </p>
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
